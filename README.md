@@ -1,1 +1,2 @@
 # python_exercise
+一个月的python操作练习，用于熟悉和巩固python的各种常见用法
